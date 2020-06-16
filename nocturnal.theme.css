@@ -1,4 +1,4 @@
-//META{"name":"Nocturnal","description":"A simple & clean dark theme for thoses who live at night, made to be easy on the eye. FIXED BY Печенько#3183 and LEv145#9261","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"2.8"}*//{}
+//META{"name":"Nocturnal","description":"A simple & clean dark theme for thoses who live at night, made to be easy on the eye. FIXED BY Печенько#3183 and LEv145#9261","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"2.9"}*//{}
 
 [role="img"][aria-label]:before {
     content: "";
@@ -433,9 +433,9 @@
 :root {
         --backgroundDark: rgb(24, 28, 37);
         --backgroundDarker: rgb(20, 23, 31);
-        --primary: #008ae6;
-        --primaryGradient1: #008ae6;
-        --primaryGradient2: #00e68a;
+        --primary: #e600d4;
+        --primaryGradient1: #758bfb;
+        --primaryGradient2: #e600bf;
         --DangerColor: #dc3545;
         --WarningColor: #ffc107;
         --SuccesColor: #28a745
@@ -870,7 +870,7 @@ svg[name=Nova_Discord] * {
 }
 
 .uploadModal-2ifh8j {
-        background-color: var(--primary)!important
+        background-color: #7726a0!important
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D .button {
@@ -965,8 +965,6 @@ svg[name=Nova_Discord] * {
 }
 
 #bd-settingspane-container .bd-pfbtn,.lookFilled-1Gx00P.colorGrey-2DXtkV, .bd-detached-css-editor #bd-customcss-attach-controls button,.bd-modal-wrapper .footer button,.bda-slist .bda-footer button,.headerButtonColor-G7_f-V,.lookFilled-1Gx00P.colorBrand-3pXr91,.lookFilled-1Gx00P.colorPrimary-3b3xI6,.lookInverted-2D7oAl.colorBrand-3pXr91,.lookOutlined-3sRXeN.colorBrand-3pXr91,.plugin-settings button,.questionMark-CWEQZn,.standardSidebarView-3F1I7i #bd-customcss-attach-controls button,.tabBar-1E2ExX .primary-3j8BhM {
-        background-color: rgba(0,0,0,.5)!important;
-        border: 1.5px solid var(--primary)!important;
         border-radius: 6px!important;
         color: #fff!important
 }
@@ -2527,4 +2525,8 @@ svg[name=Nitro] g path {
 
 .isUnread-3Ef-o9{
         border-color: #7289da!important;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr9{
+        background-color: #8568cc;
 }
