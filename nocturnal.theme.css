@@ -465,7 +465,7 @@
 .webkit-HjD9Er .buttons-3JBrkn {margin-right: 5px;}
 .scrollableContainer-2NUZem {overflow-y: auto;}
 .attachWrapper-2TRKBi {border: none;}
-.divider-JfaTT5:not([class="isUnread-3Ef-o9"]) {border-top-color: var(--backgroundDarker);}
+
 .actionButton-uPB8Fs.highlight-Lf97TE {
   background: linear-gradient(to top left,var(--primaryGradient1),var(--primaryGradient2))!important;
   box-shadow: inset 0 0 100000px 0 rgba(0,0,0,.5)!important;
@@ -2523,4 +2523,8 @@ svg[name=Nitro] g path {
 .folder-21wGz3 {
         background-color: rgb(10,12,16)!important;
         border-radius: 15px;
+}
+
+.isUnread-3Ef-o9{
+        border-color: #7289da!important;
 }
