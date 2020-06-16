@@ -870,7 +870,9 @@ svg[name=Nova_Discord] * {
 }
 
 .uploadModal-2ifh8j {
-        background-color: #908f8f8a!important
+        background-color: #443f40!important;
+        border: 4px outset #613eb5;
+
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D .button {
@@ -7602,7 +7604,7 @@ svg[name=Nitro] g path {
 }
 
 .lookFilled-1Gx00P.colorBrand-3pXr9{
-        background-color: #747f8dba;
+        background-color: #711d94ed;
 }
 
 .theme-dark
@@ -7613,3 +7615,5 @@ svg[name=Nitro] g path {
 .lookFilled-1Gx00P.colorBrand-3pXr91{
         background-color: #656871ed;
 }
+
+
