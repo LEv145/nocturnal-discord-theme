@@ -627,7 +627,7 @@
 }
 
 .jumpToPresentBar-9P20AM button:last-child {
-        background-color: rgba(0,0,0,.5);
+        background-color: rgba(96, 22, 255, 0.5);
         border-radius: 6px 6px 0 0;
         margin-right: 20px
 }
@@ -677,7 +677,7 @@
 
 .typing-2GQL18 {
         background: 0 0!important;
-        top: -17px
+        top: -14px
 }
 
 .headerBar-UHpsPw,.searchBar-6Kv8R2 {
@@ -2564,3 +2564,6 @@ svg[name=Nitro] g path {
         background-color: #9400e69e!important;
 }
 
+.base-gE7OpD{
+        color: #fd9616;
+}
