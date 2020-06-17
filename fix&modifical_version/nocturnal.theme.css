@@ -1,4 +1,6 @@
-//META{"name":"Nocturnal","description":"A simple & clean dark theme for thoses who live at night, made to be easy on the eye. FIXED BY Печенько#3183 and LEv145#9261","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.0-modern"}*//{}
+//META{"name":"Nocturnal","description":"A simple & clean dark theme for thoses who live at night, made to be easy on the eye. FIXED BY Печенько#3183 and LEv145#9261","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.0-modern", "source": "https://github.com/LEv145/nocturnal-theme-for-better-discord-fixed-by-lev145", "donate": "https://money.yandex.ru/to/410015858804944/0"}*//{}
+
+
 
 [role="img"][aria-label]:before {
     content: "";
@@ -2545,3 +2547,20 @@ svg[name=Nitro] g path {
 .lookFilled-1Gx00P.colorBrand-3pXr91{
         background-color: #5857578f;
 }
+
+.lookInverted-2D7oAl.colorBrand-3pXr91{
+        background-color: #c75050;
+}
+
+.subscribeTooltipWrapper-32-Ce8{
+        background-color: #3e3e40;
+}
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button{
+        background: #545a63;
+}
+
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked, .barFill-23-gu-, .cardPrimaryEditable-3KtE4g[style*="rgb(114, 137, 218)"], .option-n0icdO:hover, .selected-mKYnfr.option-n0icdO, .themeDefault-24hCdX.valueChecked-m-4IJZ{
+        background-color: #9400e69e!important;
+}
+
