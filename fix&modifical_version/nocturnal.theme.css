@@ -870,7 +870,8 @@ svg[name=Nova_Discord] * {
 }
 
 .uploadModal-2ifh8j {
-        background-color: rgb(24, 28, 37)!important
+        background-color: rgb(24, 28, 37)!important;
+        border: 4px outset #7c00ff;
 
 }
 
@@ -1566,9 +1567,9 @@ svg[name=Nova_Discord] * {
 
 .bda-slist .bda-footer a {
         color: #fff;
-        background-color: var(--primary);
-        border-radius: 50px;
-        padding: 4px
+        background-color: #102373;
+        border-radius: 10px;
+        padding: 2px
 }
 
 .Select .Select-menu {
@@ -2539,4 +2540,8 @@ svg[name=Nitro] g path {
 
 .attachPopoutRow-KrE-f6:hover, .uploadModal-2ifh8j .footer-3mqk7D{
         background-color: rgba(0, 0, 0, 0.34)!important;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91{
+        background-color: #5857578f;
 }
