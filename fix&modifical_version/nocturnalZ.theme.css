@@ -2209,8 +2209,8 @@ svg[name=Nitro] g path {
 }
 
 .avatar-1BDn8e {
-        top: auto;
-        left: 18px;
+        top: 17px;
+        left: 17px;
         border-radius: 5px;
         border-color: darkcyan;
         border-style: solid;
@@ -2587,6 +2587,6 @@ svg[name=Nitro] g path {
 }
 
 [role="img"][aria-label] foreignObject img{
-    margin-top: 0 px;
-    margin-left: 0 px;
+    margin-top: 0px;
+    margin-left: 0px;
 }
