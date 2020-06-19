@@ -1,4 +1,4 @@
-//META{"name":"Nocturnal","description":"A simple & clean dark theme for thoses who live at night, made to be easy on the eye. FIXED BY Печенько#3183 and LEv145#9261","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.0-modern", "source": "https://github.com/LEv145/nocturnal-theme-for-better-discord-fixed-by-lev145", "donate": "https://money.yandex.ru/to/410015858804944/0"}*//{}
+//META{"name":"NocturnalZ","description":"Improved theme based on the "Nocturnal theme" template with fixed bugs and updated design to the smallest detail. FIXED BY Печенько#3183 and LEv145#9261","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.0-modern", "source": "https://github.com/LEv145/nocturnal-theme-for-better-discord-fixed-by-lev145", "donate": "https://money.yandex.ru/to/410015858804944/0"}*//{}
 
 
 
@@ -2580,4 +2580,13 @@ svg[name=Nitro] g path {
 
 .activity-11LB_k, .headerFill-adLl4x{
         background-color: rgba(0, 0, 0, 0);
+}
+
+.categoryFadeBlurple-1j72_A{
+        background-color: rgba(116, 19, 230, 0.4)!important;
+}
+
+[role="img"][aria-label] foreignObject img{
+    margin-top: 0 px;
+    margin-left: 0 px;
 }
