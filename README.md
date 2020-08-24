@@ -1,4 +1,6 @@
 # About
+![Иллюстрация к проекту](https://i.ibb.co/Y0fNk7W/fullscreen.png)
+
 Fixed and fixed theme by the author LEv145
 
 * ./fix&modifical_version - version with fixed bugs and changed design
