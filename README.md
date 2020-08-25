@@ -22,6 +22,16 @@ Fixed and fixed theme by the author LEv145
 
  ![Иллюстрация к проекту](https://i.ibb.co/P1sQDVv/234324234.png)
  
+* Magic CSS (Web browser)
+1) Download the extension(https://github.com/webextensions/live-css-editor)
+
+ ![Иллюстрация к проекту](https://i.ibb.co/Z6HMnh6/23435345345346.png)
+
+2) Click on the extension icon and insert our CSS
+
+ ![Иллюстрация к проекту](https://i.ibb.co/2dDR28Q/45345345345345234.png)
+
+
 
 
 # Donate
