@@ -1,5 +1,5 @@
 # About
-![Иллюстрация к проекту](https://i.ibb.co/Y0fNk7W/fullscreen.png)
+![Иллюстрация к проекту](https://media.discordapp.net/attachments/724679568958554242/782301528073437234/unknown.png?width=1210&height=668)
 
 Fixed and fixed theme by the author LEv145
 
