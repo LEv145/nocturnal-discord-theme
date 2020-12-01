@@ -1,4 +1,4 @@
-//META{"name":"NocturnalZ","description":"Improved theme based on the 'Nocturnal theme' template with fixed bugs and updated design to the smallest detail","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.1-modern", "source": "https://github.com/LEv145/nocturnal-theme-for-better-discord-fixed-by-lev145", "donate": "https://money.yandex.ru/to/410015858804944/0"}*//{}
+//META{"name":"NocturnalZ","description":"Improved theme based on the 'Nocturnal theme' template with fixed bugs and updated design to the smallest detail","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.0-modern", "source": "https://github.com/LEv145/nocturnal-theme-for-better-discord-fixed-by-lev145", "donate": "https://money.yandex.ru/to/410015858804944/0"}*//{}
 
 
 
@@ -437,7 +437,7 @@
 :root {
         --backgroundDark: rgb(24, 28, 37);
         --backgroundDarker: rgb(20, 23, 31);
-        --primary: #e600d4;
+        --primary: #2d0a98;
         --primaryGradient1: #758bfb;
         --primaryGradient2: #e600bf;
         --DangerColor: #dc3545;
@@ -989,6 +989,10 @@ svg[name=Nova_Discord] * {
         color: #fff!important;
         border: 1.5px solid transparent;
         background-color: var(--primary)
+}
+
+.lookInverted-2D7oAl.colorBrand-3pXr91:disabled {
+        background-color: #000;
 }
 
 #friends .tab-bar .tab-bar-item.selected {
@@ -2651,7 +2655,7 @@ svg[name=Nitro] g path {
     font-weight: bold;
 }
 
-.wrapper-1-Fsb8{
+.wrapper-1-Fsb8 {
     background-color: #1a1d25;
 }
 
@@ -2662,4 +2666,3 @@ svg[name=Nitro] g path {
 .scroller-305q3I{
     background-color: #101319;
 }
-
