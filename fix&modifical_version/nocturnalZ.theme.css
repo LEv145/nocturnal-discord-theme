@@ -1,4 +1,4 @@
-//META{"name":"NocturnalZ","description":"Improved theme based on the 'Nocturnal theme' template with fixed bugs and updated design to the smallest detail","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.0-modern", "source": "https://github.com/LEv145/nocturnal-theme-for-better-discord-fixed-by-lev145", "donate": "https://money.yandex.ru/to/410015858804944/0"}*//{}
+//META{"name":"NocturnalZ","description":"Improved theme based on the 'Nocturnal theme' template with fixed bugs and updated design to the smallest detail","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.6-modern", "source": "https://github.com/LEv145/nocturnal-theme-for-better-discord-fixed-by-lev145", "donate": "https://money.yandex.ru/to/410015858804944/0"}*//{}
 
 
 
@@ -437,9 +437,9 @@
 :root {
         --backgroundDark: rgb(24, 28, 37);
         --backgroundDarker: rgb(20, 23, 31);
-        --primary: #2d0a98;
-        --primaryGradient1: #758bfb;
-        --primaryGradient2: #e600bf;
+        --primary: #6105dc;
+        --primaryGradient1: #7b36c7;
+        --primaryGradient2: #6500b180;
         --DangerColor: #dc3545;
         --WarningColor: #ffc107;
         --SuccesColor: #28a745
@@ -972,12 +972,12 @@ svg[name=Nova_Discord] * {
 
 #bd-settingspane-container .bd-pfbtn,.lookFilled-1Gx00P.colorGrey-2DXtkV, .bd-detached-css-editor #bd-customcss-attach-controls button,.bd-modal-wrapper .footer button,.bda-slist .bda-footer button,.headerButtonColor-G7_f-V,.lookFilled-1Gx00P.colorBrand-3pXr91,.lookFilled-1Gx00P.colorPrimary-3b3xI6,.lookInverted-2D7oAl.colorBrand-3pXr91,.lookOutlined-3sRXeN.colorBrand-3pXr91,.plugin-settings button,.questionMark-CWEQZn,.standardSidebarView-3F1I7i #bd-customcss-attach-controls button,.tabBar-1E2ExX .primary-3j8BhM {
         border-radius: 6px!important;
-        color: #fff!important
+        color: #fff!important;
+        background-color: #56008cfa;
 }
 
 #bd-settingspane-container .bd-pfbtn:hover, .lookFilled-1Gx00P.colorGrey-2DXtkV:hover, #friends .tab-bar .tab-bar-item.tab-bar-item-primary,.bd-detached-css-editor #bd-customcss-attach-controls button:hover,.bd-modal-wrapper .footer button:hover,.bda-slist .bda-footer button:hover,.headerButtonColor-G7_f-V:hover,.lookFilled-1Gx00P.colorBrand-3pXr91:hover,.lookFilled-1Gx00P.colorPrimary-3b3xI6:hover,.lookOutlined-3sRXeN.colorBrand-3pXr91:hover,.plugin-settings button:hover,.questionMark-CWEQZn:hover,.standardSidebarView-3F1I7i #bd-customcss-attach-controls button:hover,.tabBar-1E2ExX .primary-3j8BhM:hover,.topPill-30KHOu .itemSelected-1qLhcL {
         color: #fff!important;
-        border: 1.5px solid transparent!important;
         background-color: var(--primary);
         background-image: linear-gradient(to right,var(--primaryGradient1),var(--primaryGradient2));
         background-position: center;
@@ -2549,11 +2549,6 @@ svg[name=Nitro] g path {
 .attachPopoutRow-KrE-f6:hover, .uploadModal-2ifh8j .footer-3mqk7D{
         background-color: rgba(0, 0, 0, 0.34)!important;
 }
-
-.lookFilled-1Gx00P.colorBrand-3pXr91{
-        background-color: #5857578f;
-}
-
 .lookInverted-2D7oAl.colorBrand-3pXr91{
         background-color: #c75050;
 }
