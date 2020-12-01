@@ -985,6 +985,10 @@ svg[name=Nova_Discord] * {
         background-color: var(--primary)
 }
 
+.lookInverted-2D7oAl.colorBrand-3pXr91:disabled {
+        background-color: #000;
+}
+
 #friends .tab-bar .tab-bar-item.selected {
         background-color: var(--primary)!important;
         color: #fff!important
