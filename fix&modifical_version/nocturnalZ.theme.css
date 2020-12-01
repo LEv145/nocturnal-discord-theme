@@ -1575,9 +1575,7 @@ svg[name=Nova_Discord] * {
 
 .bda-slist .bda-footer a {
         color: #fff;
-        background-color: #102373;
-        border-radius: 10px;
-        padding: 2px
+        padding: 2px;
 }
 
 .Select .Select-menu {
