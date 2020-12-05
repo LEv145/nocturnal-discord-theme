@@ -2663,3 +2663,14 @@ svg[name=Nitro] g path {
 .container-3XJ8ns{
     background-color: var(--backgroundDark);
 }
+
+.theme-dark {
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --background-primary: #ffffff00;
+    --background-secondary: #161620;
+    --background-secondary-alt: #16151e;
+    --background-tertiary: #121518;
+    --background-accent: #1a1e23;
+}
+
