@@ -1,4 +1,4 @@
-//META{"name":"Nocturnal","description":"A simple & clean dark theme for thoses who live at night, made to be easy on the eye. FIXED BY Печенько#3183 and LEv145#9261","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.1-modern", "source": "https://github.com/LEv145/nocturnal-theme-for-better-discord-fixed-by-lev145", "donate": "https://money.yandex.ru/to/410015858804944/0"}*//{}
+//META{"name":"Nocturnal","description":"A simple & clean dark theme for thoses who live at night, made to be easy on the eye. FIXED BY Печенько#3183 and LEv145#9261","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.2-modern", "source": "https://github.com/LEv145/nocturnal-theme-for-better-discord-fixed-by-lev145", "donate": "https://money.yandex.ru/to/410015858804944/0"}*//{}
 
 [role="img"][aria-label]:before {
     content: "";
@@ -2607,4 +2607,8 @@ svg[name=Nitro] g path {
 
 .members-1998pB, .members-1998pB>div{
     background-color: #1c202b;
+}
+
+.customStatus-1bh2V9, .theme-dark .activityUserPopout-2yItg2 .content-3JfFJh, .customStatusText-39gdCI, .theme-dark .activityProfile-2bJRaP .content-3JfFJh{
+    font-weight: 700;
 }
