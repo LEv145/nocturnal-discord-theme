@@ -1,7 +1,7 @@
 # About
 ![Иллюстрация к проекту](https://media.discordapp.net/attachments/803705623282843714/826927371713511514/2021-03-31_23-13.png?width=1218&height=670)
 
-Fixed and fixed theme by the author LEv145
+Fixed and modifical themes by LEv145
 
 * ./fix&modifical_version - version with fixed bugs and changed design (Better)
 * ./fix_version - version only with fixed bugs(not supported now)
