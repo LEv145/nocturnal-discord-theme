@@ -1,8 +1,6 @@
 //META{"name":"NocturnalZ","description":"Improved theme based on the 'Nocturnal theme' template with fixed bugs and updated design to the smallest detail","author":"Spectra#7698 & Печенько#3183 & LEv145#9261","version":"3.9-modern", "source": "https://github.com/LEv145/nocturnal-theme-for-better-discord-fixed-by-lev145", "donate": "https://money.yandex.ru/to/410015858804944/0"}*//{}
 
 
-
-
 [role="img"][aria-label]:before {
     content: "";
     position: absolute;
@@ -1883,10 +1881,6 @@ svg[name=Nitro] g path {
         background: var(--backgroundDarker)!important
 }
 
-.topPill-30KHOu .item-PXvHYJ {
-        border-radius: 20px
-}
-
 .itemBackground-2vEldQ:before {
         background: radial-gradient(ellipse at top,rgba(54,57,63,0),var(--backgroundDark)),linear-gradient(90deg,var(--backgroundDark) 0,rgba(54,57,63,0) 40%,rgba(54,57,63,0) 60%,var(--backgroundDark)),linear-gradient(0deg,var(--backgroundDark) 0,rgba(54,57,63,0) 25%)!important
 }
@@ -2538,14 +2532,6 @@ svg[name=Nitro] g path {
     background-color: #141519;
 }
 
-.background-1QDuV2{
-    background-color: #181a1f;
-}
-
-.fieldList-21DyL8{
-    background-color: #272829;
-}
-
 .connection-1fbD7X{
     background-color: #1b1d1f;
 }
@@ -2618,3 +2604,6 @@ svg[name=Nitro] g path {
 	top: -10px;
 }
 
+div.item-3HknzM.item-PXvHYJ.themed-OHr7kt {
+    background-color: rgba(0, 0, 0, 0);
+}
